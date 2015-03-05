@@ -1,0 +1,18 @@
+{
+	"ImportPath": "github.com/ciaranarcher/avro-decoder",
+	"GoVersion": "go1.4.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/stealthly/go-avro/avro",
+			"Rev": "8c3849e96910bb899bd942b3155838d16ed43cc8"
+		},
+		{
+			"ImportPath": "github.com/stealthly/go-avro/decoder",
+			"Rev": "8c3849e96910bb899bd942b3155838d16ed43cc8"
+		},
+		{
+			"ImportPath": "github.com/stealthly/go-avro/schema",
+			"Rev": "8c3849e96910bb899bd942b3155838d16ed43cc8"
+		}
+	]
+}
